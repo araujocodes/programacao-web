@@ -1,0 +1,22 @@
+{
+    "name": "school-management-backend",
+    "version": "1.0.0",
+    "description": "API de gerenciamento de professores para escola",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.5",
+        "express": "^4.21.1",
+        "mongoose": "^6.13.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.22"
+    },
+    "author": "Seu Nome",
+    "license": "ISC",
+    "keywords": []
+}
